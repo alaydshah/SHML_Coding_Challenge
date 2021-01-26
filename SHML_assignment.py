@@ -205,16 +205,17 @@ def create_model(args, classes, activation):
         Initalized Segmentaion Model
     """
     
-    #####################################################################################
-    # TODO: Initialize and return segmentation model through segmentation library (smp) #
-    #####################################################################################
+    ####################################################################################################
+    # TODO: Initialize and return segmentation model through segmentation library (smp)                #
+    # TIP: Here is the link to the library repo: https://github.com/qubvel/segmentation_models.pytorch
+    ####################################################################################################
     
     # HINT: Get the model name and args from parser
     
 
-    ####################################################################################
-    #                                   END OF YOUR CODE                               #
-    ####################################################################################
+    ####################################################################################################
+    #                                               END OF YOUR CODE                                   #
+    ####################################################################################################
 
     return model
 
