@@ -6,7 +6,7 @@
 * Generating Feature Maps using pre-trained model.
 
 ## Your Computer
-<br>
+
 Please first clone or download as .zip file of this repository.
 Working on the assignment in a virtual environment is highly encouraged.
 In this assignment, we recommend you use Python `3.8.5` 
@@ -35,8 +35,6 @@ conda deactivate
 
 ## Context
 
-<br>
-
 Given is the part of the code base for our crack segmentation project. We have already provided our trained model and have set up the barebone pipeline for generating filter maps and feature maps. However, you need to plug in your implementations for few core functions in order to complete the feature extraction program.
 
 To have a fair assessment, we have scoped the computational complexity of the project in a way that you would not need GPUs or Cloud Computing Resources in order to demonstrate your coding abilities. We have done the heavy lifiting for you and all you need to have is a really good understanding of Deep Learning, Image Segmentation, Python and Pytorch (and ofcourse, a working modern computer :D)
@@ -48,8 +46,6 @@ The model we are using and which you need to initialize is from the pytorch segm
 <br>
 
 ## Working on the Problem
-
-<br>
 
 You will execute the following shell command to invoke the python code
 
