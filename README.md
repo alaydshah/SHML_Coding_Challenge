@@ -17,7 +17,6 @@ We will be using *PyTorch* in this assignment.
 Please see below for executing a virtual environment. You will need to install Anaconda before following the next steps
 
 <br>
-
 ```shell
 cd SHML_Coding_Challenge
 conda env create -f environment.yml
@@ -43,14 +42,11 @@ The model we are using and which you need to initialize is from the pytorch segm
 
 [Pytorch Segmentation Library](https://github.com/qubvel/segmentation_models.pytorch).
 
-<br>
-
 ## Working on the Problem
 
 You will execute the following shell command to invoke the python code
 
 <br>
-
 ```shell
 python SHML_assignment.py --model Linknet --backbone densenet169 --image-path './data/11215-11.jpg'
 ```
@@ -75,8 +71,6 @@ Check the following three steps:
 1. The above shell command should execute the program without failing at any point.
 2. There should be 6 different filter maps in the `./filter_maps` folder
 3. There should be 17 different feature maps in the `./feature_maps` folder
-
-<br>
 
 ## How to submit
 
