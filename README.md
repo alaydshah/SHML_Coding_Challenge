@@ -58,11 +58,7 @@ As you might have already guessed, the above command will not go through. To suc
 
 You only need to edit this python file, and only inside the specified TODO blocks!
 
-<br>
-
 ### PLEASE DO NOT MODIFY ANY PART OF THE CODE OUTSIDE THE TODO BLOCKS. YOU DO NOT NEED TO IF YOU DO IT RIGHT!
-
-<br>
 
 Your part of the code should fit our designed pipeline. Your work may not be considered if we find you have modified any part of the code which you were not supposed. We have given clear indications for where you need to add your code.
 
