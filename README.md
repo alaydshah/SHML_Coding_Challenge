@@ -78,7 +78,7 @@ Check the following three steps:
 
 1. The above shell command should execute the program without failing at any point.
 2. There should be 6 different filter maps in the `./filter_maps` folder
-3. There should be 17 different filter maps in the `./filter_maps` folder
+3. There should be 17 different feature maps in the `./feature_maps` folder
 
 <br>
 
