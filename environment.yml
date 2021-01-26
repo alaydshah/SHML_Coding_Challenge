@@ -1,0 +1,7 @@
+name: dl_crack
+channels:
+  - defaults
+dependencies:
+  - anaconda
+  - python=3.8.5
+prefix: /home/alay/anaconda3/envs/dl_crack
