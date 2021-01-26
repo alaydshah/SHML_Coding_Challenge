@@ -31,7 +31,6 @@ cat requirements.txt | xargs -n 1 pip install
 # Deactivate the virtual environment when you are done
 conda deactivate
 ```
-<br>
 
 ## Context
 
