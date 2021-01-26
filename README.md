@@ -61,7 +61,7 @@ Your part of the code should fit our designed pipeline. Your work may not be con
 Check the following three steps:
 
 1. The above shell command should execute the program without failing at any point.
-2. There should be 6 different filter maps in the `./filter_maps` folder
+2. There should be 5 different filter maps in the `./filter_maps` folder
 3. There should be 17 different feature maps in the `./feature_maps` folder
 
 ## How to submit
