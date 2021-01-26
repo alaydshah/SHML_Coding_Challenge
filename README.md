@@ -17,7 +17,6 @@ We will be using *PyTorch* in this assignment.
 Please see below for executing a virtual environment. You will need to install Anaconda before following the next steps
 
 ```shell
-cd SHML_Coding_Challenge
 conda env create -f environment.yml
 conda activate dl_crack
 
@@ -39,6 +38,10 @@ To have a fair assessment, we have scoped the computational complexity of the pr
 The model we are using and which you need to initialize is from the pytorch segmentation library. You may need to go through the following link when you reach the model initialization part of the problem.
 
 [Pytorch Segmentation Library](https://github.com/qubvel/segmentation_models.pytorch).
+
+Also, you need to download the model weights and save it in root directory i.e. same directory where the .py file resides.
+
+[Model Weights](https://drive.google.com/drive/folders/1yQGjA0sZbQFKC3Nk4lQ-0IsA067VUBdp?usp=sharing)
 
 ## Working on the Problem
 

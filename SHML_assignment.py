@@ -256,9 +256,12 @@ if __name__ == "__main__":
     n_classes = 1
     activation = 'sigmoid'
 
-    #########################################################################################
-    # You need to complete TODO block in the create_model function to proceed at this point #
-    #########################################################################################
+    #################################################################################################
+    # You need to complete TODO block in the create_model function to proceed at this point         #
+    # In addition to that, you need to download the model weights from the following drive          #
+    # Weights: https://drive.google.com/drive/folders/1yQGjA0sZbQFKC3Nk4lQ-0IsA067VUBdp?usp=sharing #
+    # Please save the weights in the same directory where this file resides                         #
+    #################################################################################################
 
     best_model = create_model(args, n_classes, activation)
     checkpoint = torch.load('best_model_iou.pth', map_location=DEVICE)
