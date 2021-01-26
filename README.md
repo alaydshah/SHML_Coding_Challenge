@@ -5,7 +5,7 @@
 * Generating Filter Maps using pre-trained model.
 * Generating Feature Maps using pre-trained model.
 
-### Your Computer
+## Your Computer
 <br>
 Please first clone or download as .zip file of this repository.
 Working on the assignment in a virtual environment is highly encouraged.
