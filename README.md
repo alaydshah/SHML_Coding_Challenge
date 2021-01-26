@@ -84,8 +84,6 @@ Check the following three steps:
 
 ## How to submit
 
-<br>
-
 Run the following command to zip all the necessary files for submitting your assignment.
 
 ```shell
