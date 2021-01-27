@@ -30,7 +30,7 @@ conda deactivate
 ```
 
 ### UPDATE:
-While installing the environment, few of the path specific packages may fail if your system isn't compatible with the system the environment was installed on. However, the given command should still execute the remaining packages and that would be enough for executing the assignment code.
+While installing the environment, few of the path specific packages may fail if your system isn't compatible with the system the environment was installed on. However, the given command should still install the remaining packages and that is all what you will need for executing the assignment code.
 
 ## Context
 
