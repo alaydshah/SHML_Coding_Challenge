@@ -29,6 +29,9 @@ cat requirements.txt | xargs -n 1 pip install
 conda deactivate
 ```
 
+### UPDATE:
+While installing the environment, few of the path specific packages may fail if your system isn't compatible with the system the environment was installed on. However, the given command should still execute the remaining packages and that would be enough for executing the assignment code.
+
 ## Context
 
 Given is the part of the code base for our crack segmentation project. We have already provided our trained model and have set up the barebone pipeline for generating filter maps and feature maps. However, you need to plug in your implementations for few core functions in order to complete the feature extraction program.
